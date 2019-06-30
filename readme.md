@@ -21,12 +21,26 @@
 
 6. 用例图的基本符号与元素
     + 参与者： 系统中的用户，即与系统交互的对象
+
+    ![actor](https://raw.githubusercontent.com/SO4P/HW6/master/actor.PNG)
     + 用例：用户与系统的交互行为
+
+    ![use](https://raw.githubusercontent.com/SO4P/HW6/master/usecase.PNG)
     + 系统边界：表示正在建模系统的边界
+
+    ![board](https://raw.githubusercontent.com/SO4P/HW6/master/board.PNG)
     + 包含关系：被指向的用例为发起用例的行为之一
+
+    ![include](https://raw.githubusercontent.com/SO4P/HW6/master/include.PNG)
     + 扩展关系：被指向的用例为发起用例的扩展功能
+
+    ![extends](https://raw.githubusercontent.com/SO4P/HW6/master/extends.PNG)
     + 泛化关系：被指向的用例是发起用例的特例之一
+
+    ![fanhua](https://raw.githubusercontent.com/SO4P/HW6/master/fanhua.PNG)
     + 关联关系：表示参与者与用例之间的关系
+
+    ![guanlian](https://raw.githubusercontent.com/SO4P/HW6/master/guanlian.PNG)
 
 7. 用例图的画法与步骤
     + 确定系统边界
